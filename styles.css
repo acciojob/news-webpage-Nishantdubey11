@@ -9,10 +9,39 @@ body{
 	text-align: center;
 }
 
+main{
+	display:flex;
+}
+	
 div{
+	
 	background-color: white;
 	text-align: center;
 	border-radius: 10px;
+	padding: 5px;
+	margin: 5px
+}
+
+
+
+.container-1{
+	width: 180px;
+	height: 100%;
+	
+	}
+
+.container-2{
+	width: 250px;
+	height: 100%;
+}
+
+img{
+	width: 150px
+}
+
+.container-3{
+	width: 180px;
+
 }
 
 

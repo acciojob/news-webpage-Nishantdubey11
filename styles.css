@@ -9,11 +9,11 @@ body{
 	text-align: center;
 }
 
-main{
+.containers{
 	display:flex;
 }
 	
-div{
+.latest-news-section, .container-2, .container-3{
 	background-color: white;
 	text-align: center;
 	border-radius: 10px;
@@ -21,7 +21,7 @@ div{
 	margin: 5px
 }
 
-.container-1{
+.latest-news-section{
 	width: 180px;
 	height: 100%;
 }
